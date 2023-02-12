@@ -49,6 +49,8 @@ Maquetación
 Hojas de cálculo
 
 Administracion y realizacion de consultas
+
+Wordpress
 ## Servicios en red
 Montaje y configuracion de servidor DHCP
 
