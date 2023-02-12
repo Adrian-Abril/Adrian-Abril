@@ -4,6 +4,9 @@ Soy un estudiante de sistemas microinformaticos y redes de Zaragoza(Aragón, Esp
 
 Sobre todo me gusta la ciberseguridad y los sistemas operativos en red.
 
+# Objetivo
+Trabajar como white hat
+
 # Conociminetos
 ## Ciberseguridad
 OSINT
