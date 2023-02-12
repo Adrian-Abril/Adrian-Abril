@@ -1,19 +1,10 @@
-# Hola! soy a25620 👋
+# Hola! soy Adrián Abril 👋
 
-Soy un estudiante de sistemas microinformaticos y redes de Zaragoza(Aragón, España)
+Soy un estudiante de sistemas microinformaticos y redes de Zaragoza(Aragón, España)cursando 2 año de grado medio.
+Sobre todo me gusta la ciberseguiridad y los sistemas operativos(Linux/Windows).
 
-# Articulos Publicados
-<!--
-**a25620/a25620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Conocimientos
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Habilidades
+Buena comunicacion
+Ingles
