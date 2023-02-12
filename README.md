@@ -57,6 +57,8 @@ Montaje y configuracion de servidor DNS
 Montaje y configuracion de servidor APACHE
 ## Montaje
 Montaje y mantenimineto de equipos
+## Redes locales
+Cisco packet tracer
 # Habilidades
 Buena comunicacion
 
