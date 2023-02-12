@@ -6,14 +6,11 @@ Sobre todo me gusta la ciberseguridad y los sistemas operativos en red.
 
 # Conociminetos
 ## Ciberseguridad
- Google dorks
-  
- Osint
-  
- Escaneo de puertos
- 
- Escaneo de vulnerabilidades
+OSINT
 
+Escaneo de puertos
+ 
+Escaneo de vulnerabilidades
 ## Sistemas operativos en red
 ### Windows
 Windows server
@@ -26,6 +23,14 @@ Ubuntu server
 Ubuntu desktop
 
 Kali linux
+## Amazon web service(AWS)
+EC2
+
+VPC
+
+RDS
+
+S3
 ## Programacion
 HTML5
 
@@ -51,7 +56,7 @@ Montaje y configuracion de servidor DNS
 
 Montaje y configuracion de servidor APACHE
 ## Montaje
-Motaje y mantenimineto de equipos
+Montaje y mantenimineto de equipos
 # Habilidades
 Buena comunicacion
 
