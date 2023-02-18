@@ -1,6 +1,6 @@
 # Hola! soy Adrián Abril 👋
 
-Soy un estudiante de sistemas microinformaticos y redes de Zaragoza(Aragón, España)cursando 2 año de grado medio.
+Soy un estudiante de sistemas microinformaticos y redes de Zaragoza(Aragón, España), cursando 2 año de grado medio.
 
 Sobre todo me gusta la ciberseguridad y los sistemas operativos en red.
 
