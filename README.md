@@ -41,14 +41,12 @@
 
 </p>
 
-## Estadísticas de Github
-
 <br/>
 <a href="https://github.com/Adrian-Abril/Adrian-Abril/blob/main/README.md">
-  <img alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=TU-NOMBRE-DE-USUARIO&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="Estadísticas de GitHub" src="https://github-readme-stats.vercel.app/api?username=Adrian-Abril&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
-<a href="https://github.com/Adrian-Abril/Adrian-Abril/blob/main/README.md">
-  <img alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-NOMBRE-DE-USUARIO&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Adrian-Abril/Adrian-Abril/edit/main/README.md">
+  <img alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-Abril&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 <br/>
 
