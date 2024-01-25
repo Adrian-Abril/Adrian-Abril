@@ -59,24 +59,8 @@
 <ul>
 
 <li>
-<a href="URL-de-tu-LinkedIn" target="_blank">
+<a href="https://www.linkedin.com/in/adri%C3%A1n-abril-443810239/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:-Tu%20Nombre-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="URL-de-tu-Twitter" target="_blank">
-<img src="https://img.shields.io/badge/twitter:-Tu%20Nombre-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="URL-de-tu-Instagram" target="_blank">
-<img src="https://img.shields.io/badge/instagram:-Tu%20Nombre-%23EA4335.svg?style=for-the-badge&logo=instagram&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -99,7 +83,6 @@
     🚀 Visita mi GitHub 🚀
   </a>
   <br>
-  <span style="font-style: italic;">Última edición: [Fecha Actual]</span>
 </p>
 <p style="color: #1589FF; font-size: x-large;">
   🌐 Exploremos la tecnología juntos 🌐
