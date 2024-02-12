@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Web;Interesado+en+Ciberseguridad;+Aprendizaje+constante;Explorando+Java,+Python,+SQL+y+C%23;"></a>
 </p>
 
-## <img src="https://github.com/Adrian-Abril/Adrian-Abril/raw/main/assets/mdImages/about_me.gif" width="50px" style="visibility:visible;max-width:100%;"></picture> **Sobre mí**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" style="visibility:visible;max-width:100%;"></picture> **Sobre mí**
 
 <picture>
   <img align="right" <img src="URL-de-tu-imagen" height="300" style="max-width: 100%; display: inline-block;">
@@ -50,7 +50,7 @@
 </a>
 <br/>
 
-## <b> ¡Conectemos..!</b><img src="URL-de-tu-imagen-de-apretón-de-manos" width ="80">
+## <b> ¡Conectemos..!</b><img src="https://github.com/anotherwebguy/anotherwebguy/blob/main/Handshake.gif" width ="80">
 
 <div align='left'>
 
